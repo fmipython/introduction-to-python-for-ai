@@ -1,2 +1,7 @@
-# introduction-to-python-for-ai
-Materials for the "Introduction to Python for AI" mini-course
+# Въведение в Python за изкуствен интелект
+
+Материали за мини-курса по Python за студенти към курсовете "Изкуствен интелект" и "Интелигенти системи".
+
+Материалите са подбрани от курса ["Програмиране с Python"](https://github.com/fmipython/PythonCourse2025).
+Този мини-курс има за цел да даде основоите на Python, необходими за работата свързана с курсовете по изкуствен интелект за бакалаври във ФМИ.
+Много от нещата в Python се прескочени. За по-пълно навлизане в Python, разгледайте ["Програмиране с Python"](https://github.com/fmipython/PythonCourse2025).
