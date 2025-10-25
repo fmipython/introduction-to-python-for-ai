@@ -1,0 +1,17 @@
+title: Intro to Python for AI students
+author: Alexander Ignatov, Lyuboslav Karev, Karina Hristova, Alexandr Komarov, Ivan Luchev
+
+execute:
+  execute_notebooks: off
+  
+repository:
+  url: https://github.com/fmipython/introduction-to-python-for-ai
+  branch: main
+
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
+
+launch_buttons:
+  colab_url: "https://colab.research.google.com"

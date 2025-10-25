@@ -1,0 +1,8 @@
+format: jb-book
+
+root: README
+
+parts:
+- caption: Материали
+  chapters:
+  - file: "module-1/module-1"
